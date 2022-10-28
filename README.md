@@ -53,3 +53,19 @@ A very bitter pill to swallow for the home team, Kolkata Knight Riders. ( do not
 
 img: sad.gif ( 2 times )
 
+
+Task 4 : 
+
+1) Screenplay Text:
+A Kid walks into a library and asks,
+"Do you have a book about a shark?" 
+The librarian answers,
+"We have lots of books about sharks."
+The kid says, 
+"Do you have a book about a shark that becomes a detective and is hired to find a missing Egyptian artifact hidden on the moon by man-eating snake monsters?"
+The librarian says, "No." 
+The kid says,
+“Great, then I’m going to write one!”
+
+
+2) Play the Gifs as per the dialogue
